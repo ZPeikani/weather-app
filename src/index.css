@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.background-img {
+  background-image: url(../public/rainy-weather.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-top: auto;
+}
+
+.background-login {
+  background-image: url(../public/sun-behind-clouds.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-top: auto;
+}
+
+.background-home {
+  background-image: url(../public/Under_the_Ragama_evening_sky1.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
